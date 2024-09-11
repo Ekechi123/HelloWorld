@@ -1,4 +1,4 @@
-# Android Prework - *Name of App Here*
+# Android Prework - Hello World
 
 Submitted by: Ekechi Spencer
 
@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Kapture 2024-09-10 at 20 40 36](https://github.com/user-attachments/assets/6f4b5944-c161-4c80-9ca1-99d4ae32f9b3)
 
 GIF created with ...  
 <!-- Recommended tools:
